@@ -13,6 +13,7 @@ spec=frost
 # Feel free to edit, adapt and improve it to your own needs.
 # SimulationCraft is always looking for updates and improvements to the default action lists.
 its a new day
+its a another day
 # Executed before combat begins. Accepts non-harmful actions only.
 actions.precombat=flask,name=countless_armies
 actions.precombat+=/food,name=fishbrul_special
